@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662021010774",
+    "project_id": "bacain-9c536",
+    "storage_bucket": "bacain-9c536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662021010774:android:ada149569f90eed85252f7",
+        "android_client_info": {
+          "package_name": "com.example.bacain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662021010774-kmm8es95vokckuiv5ek45528o3jb6qs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlthzh84wdfc4DiEv8wDn_JB03sIzj-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662021010774-kmm8es95vokckuiv5ek45528o3jb6qs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
